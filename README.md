@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eugenio
 - 👀 I’m interested in physics and math
-- 🌱 I’m currently learning rust
+- 🌱 I mainly use python but I want to become better at C++
 - 📫 Reach me at chicken.nuggets@gmail.com
 
 <!---
