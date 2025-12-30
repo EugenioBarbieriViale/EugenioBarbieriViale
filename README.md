@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eugenio
 - 🤓 I’m interested in physics and math
 - 💻 Most familiar with C, C++, Rust and Python
-- <img width="100" height="100" alt="sdfds" src="https://github.com/user-attachments/assets/1e3392ed-38ac-419b-b224-2f159a80b35c" />Arch Linux user
+- <img width="32" height="32" alt="dffdf" src="https://github.com/user-attachments/assets/b6138337-419f-416a-9170-a505550d2238" />Arch Linux user
 - 📧 Reach me at eugenio.barbieri.viale@gmail.com
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugenioBarbieriViale)](https://github.com/anuraghazra/github-readme-stats)
 <!---
